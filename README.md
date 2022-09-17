@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prof. Dr.ShabeerAhmadMian@shadowasuperpartner
+- 👋 Hi, I’m Prof. Dr. ShabeerAhmadMian@shadowasuperpartner
 - 👀 I’m interested in ...Teaching, Research & Development in computational Nano Fusion Technology i.e. 
 - Biomaterials (adhesive, lung cancer,  Optimal Drug Delivery
 - in Leukemia Treatment,neurodegenerative Diseases...) Energy materials(solar cell, watersplitting 7 Storage,
